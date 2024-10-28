@@ -4,14 +4,14 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bangale72i/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://www.linkedin.com/in/bangale72i/">
+  <a href="https://www.linkedin.com/in/bangale72/">
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bangale72i/linktree?color=04D361&labelColor=000000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bangale72/linktree?color=04D361&labelColor=000000">
   
-  <a href="https://github.com/bangale72i/linktree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bangale72i/linktree?color=04D361&labelColor=000000">
+  <a href="https://github.com/bangale72/linktree/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bangale72/linktree?color=04D361&labelColor=000000">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ This is an open source project that serves as a free alternative to the Linktree
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/bangale72i/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/bangale72/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
 git clone https://github.com/bangale72i/linktree
 ```
@@ -63,4 +63,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://bangale72i.github.io/linktree)
+Made with ❤️ by John Emerson :wave: [Get in touch](https://bangale72.github.io/linktree)
